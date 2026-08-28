@@ -64,7 +64,7 @@ export default function Home() {
           <p>Universidad de Antioquia</p>
           <p>Cloud Computing · 2026</p>
           <p className="mt-2">
-            Integrantes: Integrante 1 · Integrante 2 · Integrante 3
+            Integrantes: Andés Alejandro Villota Villota · Andrés Eduardo Pabón Roldán
           </p>
         </div>
 
